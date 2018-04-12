@@ -1,0 +1,73 @@
+﻿@page
+@model CreateModel
+@{
+}
+<br />
+<h2>建立書目</h2>
+<br />
+
+<div style="border:1px solid #bbb9b9; border-radius:5px;">
+    <form method="post">
+        <div class="row" style="padding-left:50px;padding-top:30px;">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-1">
+                        <label asp-for="book.ISBN"></label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input asp-for="book.ISBN" class="form-control" />
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-1">
+                        <label asp-for="book.Title"></label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input asp-for="book.Title" class="form-control" />
+                    </div>
+                </div>
+                <span asp-validation-for="book.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-1">
+                        <label asp-for="book.Author"></label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input asp-for="book.Author" class="form-control" />
+                    </div>
+                </div>
+                <span asp-validation-for="book.Author" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-1">
+                        <label asp-for="book.Price"></label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input asp-for="book.Price" class="form-control" />
+                    </div>
+                </div>
+                <span asp-validation-for="book.Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-1">
+                        <label asp-for="book.Avaibility"></label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input asp-for="book.Avaibility" class="form-control" />
+                    </div>
+                </div>
+                <span asp-validation-for="book.Avaibility" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="建立" class="btn btn-primary btn-sm" />
+                <a asp-page="Index" class="btn btn-success btn-sm">回到書單</a> 
+            </div>
+        </div>
+    </form>
+</div>
