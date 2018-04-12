@@ -9,3 +9,14 @@ C:\Users\Ronny\Documents\Visual Studio 2017\Projects\BookList_Razor\BookList_Raz
 C:\Users\Ronny\Documents\Visual Studio 2017\Projects\BookList_Razor\BookList_Razor\obj\Debug\netcoreapp2.0\BookList_Razor.AssemblyInfo.cs
 C:\Users\Ronny\Documents\Visual Studio 2017\Projects\BookList_Razor\BookList_Razor\obj\Debug\netcoreapp2.0\BookList_Razor.dll
 C:\Users\Ronny\Documents\Visual Studio 2017\Projects\BookList_Razor\BookList_Razor\obj\Debug\netcoreapp2.0\BookList_Razor.pdb
+C:\Users\Ronny\Source\Repos\BookList_Razor\BookList_Razor\BookList_Razor\bin\Debug\netcoreapp2.0\BookList_Razor.deps.json
+C:\Users\Ronny\Source\Repos\BookList_Razor\BookList_Razor\BookList_Razor\bin\Debug\netcoreapp2.0\BookList_Razor.runtimeconfig.json
+C:\Users\Ronny\Source\Repos\BookList_Razor\BookList_Razor\BookList_Razor\bin\Debug\netcoreapp2.0\BookList_Razor.runtimeconfig.dev.json
+C:\Users\Ronny\Source\Repos\BookList_Razor\BookList_Razor\BookList_Razor\bin\Debug\netcoreapp2.0\BookList_Razor.dll
+C:\Users\Ronny\Source\Repos\BookList_Razor\BookList_Razor\BookList_Razor\bin\Debug\netcoreapp2.0\BookList_Razor.pdb
+C:\Users\Ronny\Source\Repos\BookList_Razor\BookList_Razor\BookList_Razor\obj\Debug\netcoreapp2.0\BookList_Razor.csprojResolveAssemblyReference.cache
+C:\Users\Ronny\Source\Repos\BookList_Razor\BookList_Razor\BookList_Razor\obj\Debug\netcoreapp2.0\BookList_Razor.csproj.CoreCompileInputs.cache
+C:\Users\Ronny\Source\Repos\BookList_Razor\BookList_Razor\BookList_Razor\obj\Debug\netcoreapp2.0\BookList_Razor.AssemblyInfoInputs.cache
+C:\Users\Ronny\Source\Repos\BookList_Razor\BookList_Razor\BookList_Razor\obj\Debug\netcoreapp2.0\BookList_Razor.AssemblyInfo.cs
+C:\Users\Ronny\Source\Repos\BookList_Razor\BookList_Razor\BookList_Razor\obj\Debug\netcoreapp2.0\BookList_Razor.dll
+C:\Users\Ronny\Source\Repos\BookList_Razor\BookList_Razor\BookList_Razor\obj\Debug\netcoreapp2.0\BookList_Razor.pdb

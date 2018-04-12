@@ -36,7 +36,7 @@ namespace BookList_Razor.Pages.BookList
             var book = _db.Books.Find(Id);
             _db.Books.Remove(book);
             await _db.SaveChangesAsync();
-            Message = "資料刪除成功";
+            Message = "資料刪除成功!!!";
             return RedirectToPage();
         }
     }

@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ronny\\Documents\\Visual Studio 2017\\Projects\\BookList_Razor\\BookList_Razor\\BookList_Razor.csproj",
+      "projectUniqueName": "C:\\Users\\Ronny\\Source\\Repos\\BookList_Razor\\BookList_Razor\\BookList_Razor\\BookList_Razor.csproj",
       "projectName": "BookList_Razor",
-      "projectPath": "C:\\Users\\Ronny\\Documents\\Visual Studio 2017\\Projects\\BookList_Razor\\BookList_Razor\\BookList_Razor.csproj",
+      "projectPath": "C:\\Users\\Ronny\\Source\\Repos\\BookList_Razor\\BookList_Razor\\BookList_Razor\\BookList_Razor.csproj",
       "packagesPath": "C:\\Users\\Ronny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ronny\\Documents\\Visual Studio 2017\\Projects\\BookList_Razor\\BookList_Razor\\obj\\",
+      "outputPath": "C:\\Users\\Ronny\\Source\\Repos\\BookList_Razor\\BookList_Razor\\BookList_Razor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
