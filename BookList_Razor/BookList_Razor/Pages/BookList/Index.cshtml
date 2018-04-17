@@ -1,4 +1,4 @@
-﻿@page
+﻿@page "{id:int?}/{handler?}"
 @model IndexModel
 @{
 }
@@ -61,6 +61,8 @@
                             @Html.DisplayFor(m => item.Avaibility)
                         </td>
                         <td>
+                            <a asp-page="Detail" asp-route-id="@item.Id" class="btn btn-sm btn-success">檢視</a>
+                            <a asp-page="Edit" asp-route-id ="@item.Id" class=" btn btn-sm btn-warning">修改</a>
                             <button asp-page-handler="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">刪除</button>
                         </td>
                     </tr>
